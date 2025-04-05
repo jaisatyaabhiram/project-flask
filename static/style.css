@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+}
+table{
+    border: 3px solid black;
+}
+table thead{
+    border: 3px solid black;
+    background-color: aqua;
+    color: blue;
+}
+table tbody{
+    border: 3px solid black;
+    background-color: rgb(255, 119, 119);
+    color: rgb(255, 255, 255);
+}
